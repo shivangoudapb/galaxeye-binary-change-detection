@@ -174,9 +174,9 @@ A combination of:
 
 All hyperparameters are stored in:
 
-~~~text
+```text
 configs/config.yaml
-~~~
+```
 
 ---
 
@@ -220,7 +220,7 @@ This evaluates the saved checkpoint on the test split and reports:
 
 Download the trained model weights from:
 
-**Replace this with your public Google Drive or Hugging Face link**
+https://drive.google.com/file/d/1tVcAvnAYzLtr18QUyxWqr8SGjWq-2fc7/view?usp=drive_link
 
 ---
 
